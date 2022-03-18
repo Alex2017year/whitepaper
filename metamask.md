@@ -1,11 +1,9 @@
 # Links
 
-Official URL:  http://meta-ratel.xyz/
+Website：[http://meta-ratel.xyz/ ](http://meta-ratel.xyz)
 
-Twitter: Mercan83498849 Benan36834698Telegraph group.
+Twitter：[https://twitter.com/](https://twitter.com)
 
-Discord.
+MetaRatel Telegram：[https://t.me/Meta\_Ratel ](https://t.me/Meta\_Ratel)
 
-Token swap pool PancakeSwap Pool.
-
-Translated with [www.DeepL.com/Translator](http://www.deepl.com/Translator) (free version)
+Discord：[https://discord.gg/jMvCSmyqHA](https://discord.gg/jMvCSmyqHA)
