@@ -1,7 +1,6 @@
 # Table of contents
 
-* [MetaRatel WhitePaper](README.md)
-* [Introduction to MetaRatel](introduction.md)
+* [Introduction to MetaRatel](README.md)
 * [Ratel NFT](1.-platform-review.md)
 * [NFT Reproduction](2.-detailed-explanation-of-dpk-platform.md)
 * [Token Economics](3.-pet-garden-gameplay/README.md)

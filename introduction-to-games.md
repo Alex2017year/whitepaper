@@ -1,6 +1,6 @@
 # Introduction to games
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 1. Ratel Fly is the first game lunched. Players control the honey badger by ejecting it at the right time to fly further and thus earn more game token HRGT
 2. When players have more than one NFT, they can switch freely within the game

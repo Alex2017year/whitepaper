@@ -1,6 +1,6 @@
 # Play to earn
 
-The platform offers wide ways to get revenue,including
+The platform offers wide ways to get revenue, including
 
 1. Breeding of Ratel
 2. Participation in casual games (PVE, idle) for earnings
