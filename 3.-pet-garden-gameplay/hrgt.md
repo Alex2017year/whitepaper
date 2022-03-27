@@ -1,8 +1,8 @@
-# HGRT
+# HRGT
 
-HGRT is an internally generated token for the game. HRGT is a BEP-20 token deployed on the Binance Smartchain.
+HRGT is an internally generated token for the game. HRGT is a BEP-20 token deployed on the Binance Smartchain.
 
-1. Total volume of HGRT is 250 billion and the initial pricing is 0.00008u.
+1. Total volume of HRGT is 250 billion and the initial pricing is 0.00008u.
 2. The economic model is as follows:
 
 

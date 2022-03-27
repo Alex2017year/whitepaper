@@ -4,7 +4,7 @@
 * [Ratel NFT](1.-platform-review.md)
 * [NFT Reproduction](2.-detailed-explanation-of-dpk-platform.md)
 * [Token Economics](3.-pet-garden-gameplay/README.md)
-  * [HGRT](3.-pet-garden-gameplay/hgrt.md)
+  * [HRGT](3.-pet-garden-gameplay/hrgt.md)
   * [HB](3.-pet-garden-gameplay/hb.md)
 * [Ratel Land Auction](4.-analysis-of-the-advantage-of-dpk-platform.md)
 * [DEFI](5.-play-to-earn.md)
